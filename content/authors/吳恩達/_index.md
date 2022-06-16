@@ -1,12 +1,13 @@
 ---
+title: Member Two
+role: Professor of XXX
+avatar_filename: r.png
 organizations:
   - name: XXXX University
     url: ""
 superuser: false
 authors:
   - 吳恩達
-title: Member Two
-role: Professor of XXX
 bio: This is a test
 interests:
   - Artificial Intelligence
