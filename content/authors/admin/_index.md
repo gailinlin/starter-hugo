@@ -1,37 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Emmy Noether
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor in Mathematics and Physics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Göttingen
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Amalie Emmy Noether was a German mathematician who made many important contributions to abstract algebra. She discovered Noether's First and Second Theorem, which are fundamental in mathematical physics. She was described by Pavel Alexandrov, Albert Einstein, Jean Dieudonné, Hermann Weyl and Norbert Wiener as the most important woman in the history of mathematics. As one of the leading mathematicians of her time, she developed some theories of rings, fields, and algebras. In physics, Noether's theorem explains the connection between symmetry and conservation laws.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Abstract algebra
+  - Theoretical physics
 
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,6 +58,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Noether's theorem or Noether's first theorem states that every differentiable symmetry of the action of a physical system with conservative forces has a corresponding conservation law. The theorem was proven by mathematician Emmy Noether in 1915 and published in 1918. The action of a physical system is the integral over time of a Lagrangian function, from which the system's behavior can be determined by the principle of least action. This theorem only applies to continuous and smooth symmetries over physical space.
