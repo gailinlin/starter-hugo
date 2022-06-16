@@ -18,15 +18,15 @@ content:
   email: test@example.org
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
+    street: No. 1539, Haigang Avenue
     city: Shanghai
     region: Pudong District
     postcode: '201306'
     country: China
     country_code: CN
   coordinates:
-    latitude: '31.22'
-    longitude: '121.48'
+    latitude: '30.902727'
+    longitude: '121.928728'
   directions: Enter Building 3 and take the stairs to Office on Floor 17
   office_hours:
     - 'Weekdays 09:00 to 17:00'
