@@ -1,6 +1,7 @@
 ---
 title: Member A
 role: Professor in Mathematics and Physics
+avatar_filename: r-1-.png
 bio: This is a test
 interests:
   - Abstract algebra
