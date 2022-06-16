@@ -1,28 +1,28 @@
 ---
-title: Example Event
+title: Rolling Seminar
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: AP-TCRC Conference
+event_url: https://example.meeting-files.ml
 
-location: Wowchemy HQ
+location: Shanghai
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: XXX
+  city: XX
+  region: XX
+  postcode: 'XXXX'
+  country: XXXX
 
 summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'TBD'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-08-01T13:00:00Z'
+date_end: '2022-08-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-06-16T00:00:00Z'
 
 authors: []
 tags: []
