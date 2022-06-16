@@ -1,6 +1,6 @@
 ---
 title: Asia Pacific Typhoon Collaborative Research Centre launched
-date: 2021-12-07
+date: 2022-06-16T05:24:00.379Z
 ---
 (This is a web test!)
 The Asia-Pacific Typhoon Collaborative Research Center (AP-TCRC) has been inaugurated in the Chinese coastal city of Shanghai, serving as a role model for regional coordination and cooperation in support of disaster risk reduction.
