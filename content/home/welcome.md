@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **AP-TCRC** is an official institution, established with the support of the Economic Commission for Asia and the Pacific/ WMO Typhoon Committee. It aims to be a centre of coordinated research and typhoon technology transfer mainly in Asia and the Pacific, and potentially over the globe.
