@@ -1,14 +1,22 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Asia Pacific Typhoon Collaborative Research Centre launched
+date: 2021-12-07
 ---
-
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+(This is a web test!)
+The Asia-Pacific Typhoon Collaborative Research Center (AP-TCRC) has been inaugurated in the Chinese coastal city of Shanghai, serving as a role model for regional coordination and cooperation in support of disaster risk reduction.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+It will promote greater research and investigation into a major natural hazard, which every year causes massive loss of life and socio-economic upheaval.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+“The tropical cyclone is one of the most important natural disasters in the world, and has been high on the agenda of WMO since the 1960s. With the Tropical Cyclone Programme, WMO has been providing essential support to Members for building resilience against tropical cyclone disasters, at the same time becoming a key partner to support United Nations humanitarian relief activities and operations,” said WMO Secretary-General Prof. Petteri Taalas.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+“In the context of global climate change, WMO also invests more resources in research, including that on tropical cyclone monitoring, prediction and early warnings. The AP-TCRC will contribute to WMO agenda on tropical cyclones and benefit Members' disaster risk reduction efforts,” said Prof. Taalas in a congratulatory letter to the inaugural ceremony.
+
+WMO Assistant Secretary-General Dr Wenjian Zhang made opening remarks on behalf of the WMO Secretary-General at the 1 Dec. inaugural ceremony. It was also attended by Zhiping Tang, Vice Mayor of Shanghai Municipal People’s Government of China; Yong YU, Deputy Administrator of China Meteorological Administration (CMA); Sanjay Srivastava of ESCAP; Naoyuki Hasegawa, Chairperson of the Typhoon Committee; and Jixin YU, Secretary of the Typhoon Committee.
+
+Tropical cyclones account for one third of both deaths and economic losses from weather-, climate- and water- related disasters in last 50 years. On average, there are about 84 tropical cyclones globally every year, of which around one-third occur in the Western North Pacific region, said Dr. Zhang.
+
+Climate change is increasing the impact of tropical cyclones, he said. The Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report said it that it is very likely that the most intense phase of typhoons in the Western Pacific has shifted northwards. It is likely that the global proportion of major tropical cyclones has increased, with associated risks of stronger winds, heavier rainfall, higher waves and storm surges and coastal flooding.
+
+“From this, we can see that there is a pressing need for strengthening regional and international cooperation in technical development of typhoon monitoring and forecasting and early warning, and prevention and mitigation of the extreme typhoon disasters,” said Dr. Zhang.
