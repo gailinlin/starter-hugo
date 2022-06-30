@@ -9,15 +9,15 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: 联系方式
 subtitle:
 
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
-  address:
+  邮箱: test@example.org
+  电话: 888 888 88 88
+  地址:
     street: No. 1539, Haigang Avenue
     city: Shanghai
     region: Pudong District
