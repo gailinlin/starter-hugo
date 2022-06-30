@@ -2,11 +2,11 @@
 abstract: TBD
 slides: null
 url_pdf: ""
-summary: An example event.
-title: Rolling Seminar
-location: Shanghai
-date: 2022-08-01T13:00:00Z
-date_end: 2022-08-01T15:00:00Z
+summary: 招聘信息示例.
+title: 2022年春季现场招聘会
+location: 上海
+date: 2022-03-01T13:00:00Z
+date_end: 2022-03-03T15:00:00Z
 all_day: false
 event: AP-TCRC Conference
 event_url: https://example.meeting-files.ml
