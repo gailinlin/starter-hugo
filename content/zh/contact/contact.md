@@ -15,19 +15,19 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  邮箱: test@example.org
-  电话: 888 888 88 88
-  地址:
-    street: No. 1539, Haigang Avenue
-    city: Shanghai
-    region: Pudong District
+  email: test@example.org
+  phone: 888 888 88 88
+  address:
+    street: 海港大道1539号
+    city: 上海
+    region: 浦东新区
     postcode: '201306'
-    country: China
+    country: 中国
     country_code: CN
   coordinates:
     latitude: '30.8713446'
     longitude: '121.9081413'
-  directions: Enter Building 3 and take the stairs to Office on Floor 17
+  # directions: Enter Building 3 and take the stairs to Office on Floor 17
   office_hours:
     - 'Weekdays 09:00 to 17:00'
   appointment_url: 'https://calendly.com/'
@@ -53,4 +53,4 @@ design:
   columns: '1'
 ---
 
-Welcome!
+欢迎联系我们!
