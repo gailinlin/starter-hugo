@@ -18,9 +18,9 @@ content:
   email: test@example.org
   phone: 888 888 88 88
   address:
-    street: 海港大道1539号
-    city: 上海
-    region: 浦东新区
+    street: 上海浦东新区海港大道1539号
+    # city: 上海
+    # region: 浦东新区
     postcode: '201306'
     country: 中国
     country_code: CN
@@ -30,7 +30,7 @@ content:
   # directions: Enter Building 3 and take the stairs to Office on Floor 17
   office_hours:
     - 'Weekdays 09:00 to 17:00'
-  appointment_url: 'https://calendly.com/'
+  # appointment_url: 'https://calendly.com/'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
