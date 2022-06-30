@@ -29,7 +29,7 @@ content:
     longitude: '121.9081413'
   # directions: Enter Building 3 and take the stairs to Office on Floor 17
   office_hours:
-    - 'Weekdays 09:00 to 17:00'
+    - '工作日 09:00 至 17:00'
   # appointment_url: 'https://calendly.com/'
   #contact_links:
   #  - icon: comments
