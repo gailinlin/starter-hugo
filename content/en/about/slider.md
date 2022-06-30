@@ -39,9 +39,9 @@ content:
         color: '#333'
         brightness: 0.5
         media: page3.png
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../event/
+      # link:
+      #   icon: graduation-cap
+      #   icon_pack: fas
+      #   text: Join Us
+      #   url: ../event/
 ---
