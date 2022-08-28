@@ -19,4 +19,6 @@ design:
 
 <br>
 
-To be provided later
+## Background
+The Asia-Pacific Typhoon Collaborative Research Center (AP-TCRC) is a newly established international joint typhoon research unit, located in the Lingang Special Area of Shanghai, China. It is supported by the ESCAP/WMO Typhoon Committee (the Committee) and hosted by the Shanghai Municipal Government of China and the China Meteorological Administration.
+
