@@ -15,27 +15,8 @@ zh:
   title: 亚太台风研究中心
   params:
     description: Site description in Chinese...
-  menu:
-    # main:
-    #   - name: 传
-    #     url: '#about'
-    #     weight: 1
-    main:
-      - name: 机构设置
-        url: about
-        weight: 10
-      # - name: 科研平台
-      #   url: post
-      #   weight: 20
-      - name: 科研平台
-        url: people
-        weight: 30
-      - name: 学术成果
-        url: publication
-        weight: 40
-      - name: 人员招聘
-        url: event
-        weight: 50
-      - name: 联系方式
-        url: contact
-        weight: 60
+  # menu:
+  #   # main:
+  #   #   - name: 传
+  #   #     url: '#about'
+  #   #     weight: 1
