@@ -23,7 +23,7 @@ education: null
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - 研究员
 highlight_name: false
 ---
 This is a test

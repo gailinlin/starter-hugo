@@ -10,13 +10,13 @@ main:
   # - name: 科研平台
   #   url: post
   #   weight: 20
-  - name: 科研平台
+  - name: 人员团队
     url: people
     weight: 30
-  - name: 学术成果
-    url: publication
+  # - name: 学术成果
+  #   url: publication
     weight: 40
-  - name: 人员招聘
+  - name: 信息发布
     url: event
     weight: 50
   - name: 联系方式

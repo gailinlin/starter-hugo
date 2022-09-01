@@ -33,7 +33,7 @@ education:
       year: 2020
 email: ""
 user_groups:
-  - Researchers
-  - Visitors
+  - 研究员
+  - 访问学者
 ---
 This is a test
