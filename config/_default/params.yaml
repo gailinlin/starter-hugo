@@ -61,10 +61,12 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
-    extra_languages:
-      - r
-      - latex
+    theme_light: nord
+    theme_dark: nord
+    # enable: false
+    # extra_languages:
+    #   - r
+    #   - latex
   math:
     enable: false
   privacy_pack:
