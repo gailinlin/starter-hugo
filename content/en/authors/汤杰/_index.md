@@ -1,5 +1,7 @@
 ---
 title: Dr. Jie TANG
+weight: 50
+
 role: Director
 avatar_filename: r.png
 organizations:
@@ -7,7 +9,7 @@ superuser: false
 authors:
   - 汤杰
 bio: This is a test
-weight: 50
+
 interests:
   - Artificial Intelligence
   - Computational Linguistics

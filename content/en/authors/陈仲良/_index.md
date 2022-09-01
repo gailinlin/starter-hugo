@@ -1,5 +1,7 @@
 ---
 title: Prof. Johnny C. L. CHAN
+weight: 51
+
 role: Scientific Director
 avatar_filename: r.png
 organizations:
