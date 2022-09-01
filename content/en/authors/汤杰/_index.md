@@ -24,3 +24,4 @@ user_groups:
 
 近期著作：
   - Zhou, Kang & Li, Qingqing & Tang, Jie. (2022). Estimation of Dissipative Heating Properties Above the Internal Boundary Layer in Landfalling Typhoons Using Multi-Layer Tower Observations. Frontiers in Earth Science. 10. 833994. 10.3389/feart.2022.833994. 
+  - He, Yuncheng & Chen, Ting & **Tang, Jie** & Chan, P.W. & Fu, Jiyang. (2022). Thermodynamic and Kinematic Structures in the Rainband Region of Typhoon Lekima (2019) at Landfall. Atmosphere. 13. 312. 10.3390/atmos13020312. 
