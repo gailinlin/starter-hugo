@@ -11,9 +11,7 @@ authors:
   - 陈仲良
 bio: This is a test
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+
 
 # Recent Journal Publications:  
 #   - Chan, K. T. F., K. Zhang, Y. Wu and J. C. L. Chan, 2022: Landfalling hurricane track modes and decay. Nature 606, E7–E11 DOI: 10.1038/s41586-022-04791-1.
