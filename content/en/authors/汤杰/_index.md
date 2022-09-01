@@ -7,6 +7,7 @@ superuser: false
 authors:
   - 汤杰
 bio: This is a test
+weight: 50
 interests:
   - Artificial Intelligence
   - Computational Linguistics
