@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: nord
-  theme_night: nord
+  theme_day: minimal
+  theme_night: minimal
   font: garamond
   font_size: L
 
@@ -61,8 +61,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: nord
-    theme_dark: nord
+    theme_light: minimal
+    theme_dark: minimal
     # enable: false
     # extra_languages:
     #   - r
