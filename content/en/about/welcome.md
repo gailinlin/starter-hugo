@@ -26,3 +26,6 @@ The Asia-Pacific Typhoon Collaborative Research Center (AP-TCRC) is a newly esta
 ## ii.	Goal
 The AP-TCRC aims to strengthen scientific and technical cooperation with the Committee and other related international organizations. It provides a sustainable platform for conducting collaborative research on advanced sciences and key techniques in typhoon monitoring, typhoon forecasting and modelling, and typhoon associated disaster prevention and mitigation.
 
+## iii.	Scope
+The research scope of the AP-TCRC includes key techniques of typhoon numerical modelling and prediction, international tropical cyclone observation experiment and big data analytics, and scientific understanding of tropical cyclone development and variability on different scales. Furthermore, the AP-TCRC devotes its efforts to organize technical trainings, academic journals and international forums in collaboration with the Committee.
+
