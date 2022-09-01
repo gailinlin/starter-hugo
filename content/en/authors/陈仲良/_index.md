@@ -10,7 +10,7 @@ superuser: false
 authors:
   - 陈仲良
 bio: This is a test
-Recent Journal Publications:
+Recent Journal Publications:  
   - Chan, K. T. F., K. Zhang, Y. Wu and J. C. L. Chan, 2022: Landfalling hurricane track modes and decay. Nature 606, E7–E11 DOI: 10.1038/s41586-022-04791-1.
   - Chand, S. S., K. J. E. Walsh, S. J. Camargo, J. Kossin, K. J. Tory, M. F. Wehner, J. C. L. Chan, P. J. Klotzbach, A. J. Dowdy, S. S. Bell, H. A. Ramsay and H. Murakami, 2022: Declining tropical cyclone frequency under global warming. Nature Climate Change DOI: 10.1038/s41558-022-01388-4.
   - Lok, C. C. F., J. C. L. Chan and R. Toumi, 2021: Tropical cyclones near landfall can induce their own intensification through feedbacks on radiative forcing. Communicating Earth & Environment DOI: 10.1038/s43247-021-00259-8.
