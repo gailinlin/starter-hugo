@@ -3,7 +3,7 @@ abstract: TBD
 slides: null
 url_pdf: ""
 summary: An example event.
-title: Rolling Seminar
+title: Roving Seminar
 location: Shanghai
 date: 2022-08-01T13:00:00Z
 date_end: 2022-08-01T15:00:00Z
