@@ -1,5 +1,5 @@
 ---
-title: Member Two
+title: Prof. Johnny C. L. CHAN
 role: Scientific Director
 avatar_filename: r.png
 organizations:
@@ -7,7 +7,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 吳恩達
+  - 陈仲良
 bio: This is a test
 interests:
   - Artificial Intelligence
