@@ -2,13 +2,13 @@
 abstract: TBD
 slides: null
 url_pdf: ""
-summary: An example event.
-title: Roving Seminar
+summary: Coming soon...
+title: World Typhoon Laureate Lecturer
 location: Shanghai
-date: 2022-08-01T13:00:00Z
-date_end: 2022-08-01T15:00:00Z
+date: to be announced
+date_end: to be announced
 all_day: false
-event: AP-TCRC Conference
+event: World Typhoon Laureate Lecturer
 event_url: https://example.meeting-files.ml
 featured: false
 authors: []
@@ -28,7 +28,7 @@ image:
   focal_point: Right
 url_code: ""
 ---
-This is a test
+Coming soon...
 
 * **Topic 1**
 * **Topic 2**
