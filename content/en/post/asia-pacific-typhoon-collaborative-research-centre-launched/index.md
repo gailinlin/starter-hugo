@@ -1,5 +1,5 @@
 ---
-title: Asia Pacific Typhoon Collaborative Research Centre launched
+title: Asia-Pacific Typhoon Collaborative Research Centre launched
 subtitle: 
 date: 2021-12-07T05:25:23.156Z
 draft: false
