@@ -1,6 +1,6 @@
 ---
-title: Member Two
-role: Professor of XXX
+title: to be announced
+role: 
 avatar_filename: r.png
 organizations:
   - name: XXXX University

@@ -1,6 +1,6 @@
 ---
-title: Member A
-role: Professor in Mathematics and Physics
+title: to be announced
+role: 
 avatar_filename: r-1-.png
 bio: This is a test
 interests:

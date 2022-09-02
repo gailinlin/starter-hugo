@@ -1,6 +1,6 @@
 ---
 title: to be announced
-role: Professor in Mathematics and Physics
+role: 
 avatar_filename: r-1-.png
 bio: This is a test
 interests:

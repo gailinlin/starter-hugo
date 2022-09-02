@@ -1,5 +1,5 @@
 ---
-title: 亚太台风研究中心理事会第一次会议在上海召开
+title: The first meeting of the AP-TCRC Council was held in Shanghai
 subtitle: 
 date: 2022-08-10T05:25:23.156Z
 draft: false
