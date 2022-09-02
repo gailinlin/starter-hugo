@@ -44,7 +44,7 @@ education:
   #     year: 2020
 email: ""
 user_groups:
-  - 管理层
+  - 科学主任
 ---
 Professor Johnny Chan is currently an Emeritus Professor at City University of Hong Kong. Before his retirement in June 2021, he was Chair Professor of Atmospheric Science and Director of the Guy Carpenter Asia-Pacific Climate Impact Centre. He was also the Founding Dean of the School of Energy and Environment of City University of Hong Kong, serving from the founding of the School in July 2009 to July 2015. Between 2002 and 2008, he was also the Director of the Shanghai Typhoon Institute of the China Meteorological Administration.
 

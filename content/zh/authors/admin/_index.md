@@ -1,5 +1,5 @@
 ---
-title: Member A
+title: to be announced
 role: Professor in Mathematics and Physics
 avatar_filename: r-1-.png
 bio: This is a test
