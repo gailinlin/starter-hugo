@@ -5,8 +5,8 @@ url_pdf: ""
 summary: Coming soon...
 title: World Typhoon Laureate Lecturer
 location: Shanghai
-date: to be announced
-date_end: to be announced
+date: 
+date_end: 
 all_day: false
 event: World Typhoon Laureate Lecturer
 event_url: https://example.meeting-files.ml

@@ -5,8 +5,8 @@ url_pdf: ""
 summary: 敬请期待
 title: 世界顶尖台风科学家（第一期）
 location: 线上平台
-date: to be announced
-date_end: to be announced
+date: 
+date_end: 
 all_day: false
 event: World Typhoon Laureate Lecturer
 event_url: https://example.meeting-files.ml
