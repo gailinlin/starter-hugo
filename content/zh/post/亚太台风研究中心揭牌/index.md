@@ -1,7 +1,7 @@
 ---
 title: 亚太台风研究中心成立
 subtitle: 
-date: 2022-06-16T05:25:23.156Z
+date: 2021-12-07T05:25:23.156Z
 draft: false
 featured: Smart
 image:
@@ -14,4 +14,4 @@ profile: false
 
 <!--more-->
 
-更多内容请访问- https://public.wmo.int/en/media/news/devastating-flooding-overwhelms-pakistan
+更多内容请访问- https://public.wmo.int/en/media/news/asia-pacific-typhoon-collaborative-research-centre-launched
