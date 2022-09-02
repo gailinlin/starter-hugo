@@ -6,7 +6,7 @@ draft: false
 featured: false
 image:
   filename: ""
-  focal_point: Smart
+  focal_point: false
   preview_only: false
 ---
 2022年8月9日，亚太台风研究中心理事会第一次会议在上海顺利召开。理事会理事长、上海市政府副秘书长王为人主持会议并讲话。
