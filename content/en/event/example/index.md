@@ -5,7 +5,7 @@ url_pdf: ""
 summary: Coming soon...
 title: World Typhoon Laureate Lecturer
 location: Shanghai
-date: 
+date: 2022-10
 date_end: 
 all_day: false
 event: World Typhoon Laureate Lecturer
@@ -20,7 +20,7 @@ address:
   region: XX
   postcode: XXXX
   country: XXXX
-publishDate: 2022-10-16T00:00:00Z
+publishDate: 2022-6-16T00:00:00Z
 tags: []
 projects: null
 image:
