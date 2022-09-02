@@ -7,9 +7,9 @@ main:
   - name: 关于我们
     url: about
     weight: 10
-  # - name: 科研平台
-  #   url: post
-  #   weight: 20
+  - name: 最新动态
+    url: post
+    weight: 20
   - name: 人员团队
     url: people
     weight: 30
