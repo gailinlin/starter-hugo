@@ -13,4 +13,4 @@ The Asia-Pacific Typhoon Collaborative Research Center (AP-TCRC) has been inaugu
 
 <!--more-->
 
-https://public.wmo.int/en/media/news/devastating-flooding-overwhelms-pakistan
+For more information please visit- https://public.wmo.int/en/media/news/devastating-flooding-overwhelms-pakistan
