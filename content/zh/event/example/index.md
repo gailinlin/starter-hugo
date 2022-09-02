@@ -2,13 +2,13 @@
 abstract: TBD
 slides: null
 url_pdf: ""
-summary: 招聘信息示例.
-title: 2022年春季现场招聘会
-location: 上海
+summary: 敬请期待
+title: 世界顶尖台风科学家（第一期）
+location: 线上平台
 date: 2022-03-01T13:00:00Z
 date_end: 2022-03-03T15:00:00Z
 all_day: false
-event: AP-TCRC Conference
+event: World Typhoon Laureate Lecturer
 event_url: https://example.meeting-files.ml
 featured: false
 authors: []
