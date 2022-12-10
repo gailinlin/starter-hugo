@@ -15,8 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: zp-aptcrc@typhoon.org.cn
+  phone: +86-021-54896350
   address:
     street: No. 1539, Haigang Avenue
     city: Shanghai
