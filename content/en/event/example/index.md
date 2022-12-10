@@ -15,11 +15,11 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: XXX
-  city: XX
-  region: XX
-  postcode: XXXX
-  country: XXXX
+  street: Lin-gang Special Area
+  city: Pudong Province
+  region: Shanghai
+  postcode: 201306
+  country: China
 publishDate: 2022-06-16T00:00:00Z
 tags: []
 projects: null
