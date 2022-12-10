@@ -2,7 +2,7 @@
 title: to be announced
 role: 
 avatar_filename: r-1-.png
-bio: This is a test
+bio: to be announced
 interests:
   - Abstract algebra
   - Theoretical physics
@@ -26,4 +26,4 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-This is a test
+to be announced

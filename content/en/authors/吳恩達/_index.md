@@ -7,8 +7,8 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 吳恩達
-bio: This is a test
+  - to be announced
+bio: to be announced
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -36,4 +36,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-This is a test
+to be announced
