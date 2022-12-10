@@ -6,7 +6,7 @@ draft: false
 featured: false
 image:
   filename: ""
-  focal_point: Smart
+  focal_point: false
   preview_only: false
 ---
 The Asia-Pacific Typhoon Collaborative Research Center (AP-TCRC) has been inaugurated in the Chinese coastal city of Shanghai, serving as a role model for regional coordination and cooperation in support of disaster risk reduction.
