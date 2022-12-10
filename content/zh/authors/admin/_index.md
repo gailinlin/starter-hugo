@@ -2,10 +2,10 @@
 title: to be announced
 role: 
 avatar_filename: r-1-.png
-bio: This is a test
+bio: TBD
 interests:
-  - Abstract algebra
-  - Theoretical physics
+  - TBD
+  - TBD
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,4 +26,4 @@ user_groups:
   - 研究员
 highlight_name: false
 ---
-This is a test
+TBD
