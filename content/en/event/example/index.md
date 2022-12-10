@@ -20,7 +20,7 @@ address:
   region: Shanghai
   postcode: 201306
   country: China
-publishDate: ""
+publishDate: 2022-12-10T00:00:00Z
 tags: []
 projects: null
 image:
