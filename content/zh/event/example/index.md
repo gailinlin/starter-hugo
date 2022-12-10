@@ -4,7 +4,7 @@ slides: null
 url_pdf: ""
 summary: 敬请期待
 title: 世界顶尖台风科学家论坛（第一期）
-location: 线上平台
+location: 线上平台/亚太台风研究中心会议室
 date: 2023-1-16T00:00:00Z
 date_end: 
 all_day: false
