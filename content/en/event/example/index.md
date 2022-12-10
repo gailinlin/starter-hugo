@@ -5,8 +5,8 @@ url_pdf: ""
 summary: Coming soon...
 title: World Typhoon Distinguished Lecturer
 location: Shanghai
-date: 2022-10-16T00:00:00Z
-date_end: 2023-01-16T08:00:00Z
+date: ""
+date_end: ""
 all_day: false
 event: World Typhoon Distinguished Lecturer
 event_url: https://example.meeting-files.ml
