@@ -28,10 +28,11 @@ image:
   focal_point: Right
 url_code: ""
 ---
+
 Coming soon...
 
-* **Topic 1**
-* **Topic 2**
-* **Topic 3**
+-   **Topic 1**
+-   **Topic 2**
+-   **Topic 3**
 
 Further event details will be added to this page.
