@@ -2,7 +2,7 @@
 title: Dr. W
 weight: 50
 
-role: Researchers
+role: Research Associate
 avatar_filename: r.png
 organizations:
 
@@ -19,7 +19,7 @@ education:
  
 email: ""
 user_groups:
-  - Science Director
+  - Researchers
 ---
 Dr. W  is currently an research associate at the Shanghai Typhoon Institute of the China Meteorological Administration.
 Mainly engaged in typhoon impact analysis and typhoon yearbook compilation, in addition to the interpretation of global tropical cyclone warnings and the research and development of a variety of business application software. After more than 20 years of continuous research and development, update and iteration, the Tropical Cyclone Warning Interpretation and Release System can instantly decode global subjective and objective forecasts and ensemble forecasts. The development of the Tropical Cyclone Yearbook Consolidation System created an automated and modern platform for the Yearbook Integration. In terms of climate theory research, the discover that the climate cause of "Jiangnan Spring Rain" is the dynamic and thermal effects of the large terrain of the Qinghai-Tibet Plateau, rather than the distribution of sea and land as previously believed by foreign scholars. The physical mechanism of plum rain being influenced by the Qinghai-Tibet Plateau revealed the internal causes of flooding in the Yangtze River Basin when the summer wind in East Asia was weak.
