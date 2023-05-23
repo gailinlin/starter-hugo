@@ -4,7 +4,7 @@ weight: 50
 output: 
   html_document:
     keep_md: true
-role: 研究员
+role: 副研究员
 avatar_filename: r.png
 organizations:
 superuser: false
@@ -16,7 +16,7 @@ social:
 education:
 email: ""
 user_groups:
-  - 管理层
+  - 研究员
 editor_options: 
   markdown: 
     wrap: sentence
