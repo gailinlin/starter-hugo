@@ -5,8 +5,8 @@ url_pdf: ""
 summary: Coming soon...
 title: Typhoon Committee Roving Seminar 2023
 location: Hanoi, VietNam
-date: "7 March 2023"
-date_end: "9 March 2023"
+date: ""
+date_end: ""
 all_day: false
 event: World Typhoon Distinguished Lecturer
 event_url: https://example.meeting-files.ml
@@ -20,7 +20,7 @@ address:
   region: Shanghai
   postcode: 201306
   country: China
-publishDate: 2023-5-23T00:00:00Z
+publishDate: 2022-12-10T00:00:00Z
 tags: []
 projects: null
 image:
@@ -28,11 +28,10 @@ image:
   focal_point: Right
 url_code: ""
 ---
-
 Coming soon...
 
--   **Topic 1**
--   **Topic 3**
--   **Topic 2**
+* **Topic 1**
+* **Topic 2**
+* **Topic 3**
 
 Further event details will be added to this page.
