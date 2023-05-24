@@ -2,7 +2,7 @@
 design:
   background:
     image:
-      filename: R-C.jpg
+      filename: RC.jpg
       filters:
         brightness: 0.6
       size: cover
