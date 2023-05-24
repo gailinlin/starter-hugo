@@ -5,7 +5,7 @@ date: 2021-12-07T05:25:23.156Z
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: "page2.png"
   focal_point: false
   preview_only: false
 ---
