@@ -23,6 +23,17 @@ address:
 publishDate: 2023-5-23T00:00:00Z
 tags: []
 projects: null
+design:
+  columns: '20'
+  background:
+    image: R-C.jpg
+    image_darken: 0
+    image_parallax: false
+    image_position: center
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ['20px', '0', '20px', '0']
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
