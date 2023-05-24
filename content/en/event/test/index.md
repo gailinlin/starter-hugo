@@ -1,4 +1,5 @@
 ---
+![avatar](\Users\THTF\Documents\GitHub\starter-hugo\content\en\event\test.png)
 abstract: At the 55th Session of the ESCAP/WMO Typhoon Committee (TC) hosted online by Macao, China from 7-9 March 2023, the proposal to continue with the series of Roving Seminar organized by the Committee’s Training and Research Coordination Group (TRCG) was endorsed.  With the kind support of the Viet Nam Meteorological and Hydrological Administration (VNMHA),the Roving Seminar 2023 will be held in hybrid mode from 28 to 30 June 2023 in the headquarters of VNMHA in Hanoi, Viet Nam.
 slides: null
 url_pdf: ""
