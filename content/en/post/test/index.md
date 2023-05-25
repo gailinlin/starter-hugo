@@ -6,15 +6,15 @@ draft: false
 featured: false
 image:
   filename: "page2.png"
-  focal_point: true
-  preview_only: true
+  focal_point: false
+  preview_only: false
 ---
 
 Shanghai on Wednesday released 40 new favorable policies to support the further development of the 2-year-old Lin-gang Special Area of China (Shanghai) Pilot Free Trade Zone, which is set to become a special economic zone with strong global market influence and competitiveness by 2035.
 
 ![< img scr=>](/assets/media/page2.png)
 
-The new policies will focus on building up a more open industrial system in the Lin-gang Special Area.
+The new policies will focus on buil![](images/page2.png)ding up a more open industrial system in the Lin-gang Special Area.
 
 According to the central authorities' guidance, Lin-gang will take the lead nationwide to further relax the market entry regulations in finance, value-added telecommunications services, cross-border data transmission, education, medical services, and culture.
 
