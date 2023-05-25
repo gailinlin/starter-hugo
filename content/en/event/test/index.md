@@ -23,9 +23,6 @@ address:
 publishDate: 2022-12-10T00:00:00Z
 tags: []
 projects: null
-image:
-  ![](images/RC.jpg)
-  focal_point: Right
 url_code: ""
 ---
 Coming soon...
