@@ -24,7 +24,8 @@ publishDate: 2022-12-10T00:00:00Z
 tags: []
 projects: null
 image:
-  ![**Unsplash**](images/RC.jpg)
+  caption: "Image credit: 
+  ![**Unsplash**](images/RC.jpg)"
   focal_point: Right
 url_code: ""
 ---
