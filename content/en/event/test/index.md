@@ -25,7 +25,7 @@ tags: []
 projects: null
 image:
   caption: "Image credit: 
-  ![**Unsplash**](images/RC.jpg)"
+  ![](images/RC.jpg)"
   focal_point: Right
 url_code: ""
 ---
